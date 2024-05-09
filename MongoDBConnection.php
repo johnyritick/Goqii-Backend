@@ -7,7 +7,7 @@ use \MongoDB\Client;
 class MongoDBConnection
 {
 
-    private  $connectionString1  = "mongodb+srv://ritick2000rai:KliTzKZBVEExofAC@careermarg.poz3p4x.mongodb.net/home";
+    private  $connectionString1  = "mongodb+srv://username:password@localhost/home";
 
     // MongoDB connection object
     private $connection = null;
